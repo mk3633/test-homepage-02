@@ -40,8 +40,8 @@ body {
   max-width: 480px;
   margin: 0 auto;
   min-height: 100vh;
-  /* Solid purple background as requested */
-  background: #3d3580;
+  /* Point color from centric.kr */
+  background: #1428a0;
   position: relative;
   box-shadow: 0 0 80px rgba(0,0,0,0.5), 0 0 120px rgba(0,0,0,0.3);
   display: flex;
