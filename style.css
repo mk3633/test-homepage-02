@@ -1081,3 +1081,12 @@ body {
   text-align: center;
   word-break: keep-all;
 }
+
+.person-company {
+  font-size: 11px;
+  font-weight: 500;
+  color: var(--text-muted);
+  text-align: center;
+  word-break: keep-all;
+  margin-top: 2px;
+}
